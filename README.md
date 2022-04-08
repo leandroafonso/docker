@@ -5,7 +5,7 @@
 Para esta imagem foi utilizado como base uma imagem oficial do debian 
 	FROM debian:bullseye-slim
 
-1. Oracle
+###1. Oracle
 	Para preparar a imagem para conexão com o Oracle 12c foi baixado o instantclient basic e sdk.
 	A lib OCI8 já se encontra compilada e basta ser adicionada ao PHP porém ela depende do instantclient instalado e configurado no ambiente.
 	O github não permite o deploy de arquivos maiores que 50Mb, sendo assim você [precisará baixar] estes dois pacotes e salvá-los dentro da pasta oracle do repositório.
@@ -17,5 +17,5 @@ Para esta imagem foi utilizado como base uma imagem oficial do debian
 	instantclient-sdk-linux.x64-12.2.0.1.0.zip
 
 
-2. Sql Server
+###2. Sql Server
 	A lib do sqlserver já se encontra compilada e suas dependências são instaladas automaticamente no script da imagem.
