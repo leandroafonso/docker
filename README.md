@@ -12,7 +12,7 @@ O github não permite o deploy de arquivos maiores que 50Mb, sendo assim você [
 Acesse ao site (https://www.oracle.com/br/database/technologies/instant-client/linux-x86-64-downloads.html) e realize o donwload destes dois pacotes, a criação da conta é gratuita e será necessário para baixar.
 	
 <blockquote>
-	instantclient-basic-linux.x64-12.2.0.1.0.zip
+	instantclient-basic-linux.x64-12.2.0.1.0.zip<br>
 	instantclient-sdk-linux.x64-12.2.0.1.0.zip
 </blockquote>
 
