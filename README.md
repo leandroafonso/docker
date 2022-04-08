@@ -14,6 +14,7 @@ Para esta imagem foi utilizado como base uma imagem oficial do debian
 	
 	```
 	instantclient-basic-linux.x64-12.2.0.1.0.zip
+	```
 	instantclient-sdk-linux.x64-12.2.0.1.0.zip
 
 
